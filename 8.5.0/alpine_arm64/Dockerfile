@@ -1,4 +1,4 @@
-FROM lsiobase/alpine.arm64
+FROM aarch64/alpine
 
 ENV NPM_CONFIG_LOGLEVEL info
 ENV NODE_VERSION 8.5.0
